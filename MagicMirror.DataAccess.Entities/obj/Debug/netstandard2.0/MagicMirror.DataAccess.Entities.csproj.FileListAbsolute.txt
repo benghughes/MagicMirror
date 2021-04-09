@@ -1,0 +1,9 @@
+C:\Users\bdogm\source\repos\MagicMirror\MagicMirror.DataAccess.Entities\bin\Debug\netstandard2.0\MagicMirror.DataAccess.Entities.deps.json
+C:\Users\bdogm\source\repos\MagicMirror\MagicMirror.DataAccess.Entities\bin\Debug\netstandard2.0\MagicMirror.DataAccess.Entities.dll
+C:\Users\bdogm\source\repos\MagicMirror\MagicMirror.DataAccess.Entities\bin\Debug\netstandard2.0\MagicMirror.DataAccess.Entities.pdb
+C:\Users\bdogm\source\repos\MagicMirror\MagicMirror.DataAccess.Entities\obj\Debug\netstandard2.0\MagicMirror.DataAccess.Entities.csprojAssemblyReference.cache
+C:\Users\bdogm\source\repos\MagicMirror\MagicMirror.DataAccess.Entities\obj\Debug\netstandard2.0\MagicMirror.DataAccess.Entities.AssemblyInfoInputs.cache
+C:\Users\bdogm\source\repos\MagicMirror\MagicMirror.DataAccess.Entities\obj\Debug\netstandard2.0\MagicMirror.DataAccess.Entities.AssemblyInfo.cs
+C:\Users\bdogm\source\repos\MagicMirror\MagicMirror.DataAccess.Entities\obj\Debug\netstandard2.0\MagicMirror.DataAccess.Entities.csproj.CoreCompileInputs.cache
+C:\Users\bdogm\source\repos\MagicMirror\MagicMirror.DataAccess.Entities\obj\Debug\netstandard2.0\MagicMirror.DataAccess.Entities.dll
+C:\Users\bdogm\source\repos\MagicMirror\MagicMirror.DataAccess.Entities\obj\Debug\netstandard2.0\MagicMirror.DataAccess.Entities.pdb
