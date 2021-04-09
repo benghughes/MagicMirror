@@ -1,0 +1,9 @@
+C:\Users\bdogm\source\repos\MagicMirror\Acme.Generic\bin\Debug\netstandard2.0\Acme.Generic.deps.json
+C:\Users\bdogm\source\repos\MagicMirror\Acme.Generic\bin\Debug\netstandard2.0\Acme.Generic.dll
+C:\Users\bdogm\source\repos\MagicMirror\Acme.Generic\bin\Debug\netstandard2.0\Acme.Generic.pdb
+C:\Users\bdogm\source\repos\MagicMirror\Acme.Generic\obj\Debug\netstandard2.0\Acme.Generic.csprojAssemblyReference.cache
+C:\Users\bdogm\source\repos\MagicMirror\Acme.Generic\obj\Debug\netstandard2.0\Acme.Generic.AssemblyInfoInputs.cache
+C:\Users\bdogm\source\repos\MagicMirror\Acme.Generic\obj\Debug\netstandard2.0\Acme.Generic.AssemblyInfo.cs
+C:\Users\bdogm\source\repos\MagicMirror\Acme.Generic\obj\Debug\netstandard2.0\Acme.Generic.csproj.CoreCompileInputs.cache
+C:\Users\bdogm\source\repos\MagicMirror\Acme.Generic\obj\Debug\netstandard2.0\Acme.Generic.dll
+C:\Users\bdogm\source\repos\MagicMirror\Acme.Generic\obj\Debug\netstandard2.0\Acme.Generic.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9UXOhzzg0+bA1SePzVpJhn00Gt4LbwP7VVyjpS/FmYCOD5jV/NySU5awoOV0ZPNR3iLW+n/4WcZleKfb3EQK/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bdogm\\source\\repos\\MagicMirror\\Acme.Generic\\Acme.Generic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bdogm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bdogm\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
